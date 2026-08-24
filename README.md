@@ -1,1 +1,1 @@
-# Predictive-Modeling-Using-Machine-Learning
+This project focuses on **Predictive Modeling using Machine Learning** with the California Housing dataset. It includes data preprocessing, analysis, visualization, and model training to predict house prices. The project demonstrates how machine learning can be used to identify patterns in housing data and make accurate predictions.
